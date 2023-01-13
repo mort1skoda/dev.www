@@ -7,5 +7,8 @@ git commit -m "$DATE"
 git branch -M master
 #git remote add origin https://github.com/mort1skoda/devC.git
 git push -u origin master
-###
+
+#TODO:
+#git pull
+
 
